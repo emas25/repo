@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="700" height="500">
+  <script xlink:href="../Scripts/jquery-2.0.3.js"/>
+  <script xlink:href="../Scripts/mapulation.js"/>
+  <g id="map" map-id="1" transform="scale(2)">
+    <rect class="room" id="2" x="20" y="1" width="80" height="140" stroke="#000000" stroke-width="1" fill="#FFFFFF" />
+    <rect class="room" id="4" x="160" y="1" width="100" height="60" stroke="#000000" stroke-width="1" fill="#FFFFFF"/>
+    <path class="room" id="3" d="M20 159 l0 -20 l240 0 l0 -138 l20 0 l0 158z" stroke="#000000" stroke-width="1" fill="#FFFFFF"/>
+    <path class="room" id="1" d="M100 139 l0 -138 l60 0 l0 60 l100 0 l0 78z" stroke="#000000" stroke-width="1" fill="#FFFFFF"/>
+	
+  </g>
+</svg>

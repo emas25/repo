@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myactionbar="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/objectTypesFiltr"
+        android:orderInCategory="99"
+        android:title="Filtruj wg typów"/>
+    <item
+        android:id="@+id/placeTypesFiltr"
+        android:orderInCategory="98"
+        android:title="Filtruj wg pomieszczeń"/>
+    
+    <item
+        android:id="@+id/addObject"
+        android:orderInCategory="97"
+        android:title="Dodaj obiekt w tym punkcie"/>
+    
+    <item
+        android:id="@+id/showObject"
+        android:orderInCategory="96"
+        android:title="Pokaż obiekt"/>
+    
+    <item
+        android:id="@+id/start_qr_read"
+        android:icon="@drawable/code"
+        android:orderInCategory="100"
+        android:title="Read QR Code"
+        myactionbar:showAsAction="ifRoom">
+    </item>
+
+</menu>

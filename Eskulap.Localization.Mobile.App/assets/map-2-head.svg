@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:svg="svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="220" height="500" onload="init(evt)">
+  <script xlink:href="../Scripts/jquery-2.0.3.js"/>
+  <script xlink:href="../Scripts/mapulation-main.js"/>
+  <g id="map" map-id="0">
+      <rect id="1" class="room" x="470.667" y="233.667" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="260" height="158"/>
+      <path id="4" class="room" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M105.446,446.405h185.507l0.215-166.506
+	c36.039-27.494,56.039-72.494,56.039-116.494c0-82.357-66.643-149-149-149s-149,66.643-149,149
+	c0,31.516,10.096,62.598,28.729,88.026c7.847,10.708,17.124,20.361,27.511,28.629V446.405z"/>
+  </g>
+</svg>
